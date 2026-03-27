@@ -1,22 +1,36 @@
-## Hi, I am Zamil
+## Hi, I am Zamil 👋
 
-## 🎓 AI Student | 🤖 ML Explorer | 🌟 Lifelong Learner
+## 🎓 AI Student | 🤖 ML Explorer | 📊 Data Analyst (Learner)  | 🌟 Lifelong Learner
 
 Welcome to my GitHub! I'm an undergraduate student pursuing a Bachelor's degree in Artificial Intelligence.  
-I'm passionate about transforming ideas into intelligent and practical solutions through code and creativity.
+I am passionate about transforming ideas into intelligent and practical solutions through code, data, and creativity.
+
+---
 
 ## 🔭 Current Projects
--
+-  Best Route Finder (DSA in java )
+-  Blood Donation System (Java OOP Project)
+-  Music Recommendation System (AI/ML Concept Project)
+
+---
 
 ## 🌱 Currently Learning
--
+- 📊 Data Analysis (Python, Pandas, Visualization)  
+- 💻 Backend development concepts (Java)  
+- 🗃️ Databases (SQL & DBMS)
+- 🤖 Machine Learning & Deep Learning basics  
+- 🧠 NLP fundamentals  
+
+---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn
+- 💼 LinkedIn: www.linkedin.com/in/zamil-aurangzeb
 - 📧 Email: zamilaurangzeb@gmail.com
 
+---
+
 ## 📊 GitHub Stats
--Zamil's GitHub Stats
+Zamil's GitHub Stats 🚀
 
 <!--
 **Z-M-Arain/Z-M-ARAIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
